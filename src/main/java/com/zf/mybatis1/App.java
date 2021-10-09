@@ -15,5 +15,6 @@ public class App
         System.out.println("哈哈哈哈哈");
         System.out.println("hot-fix");
         System.out.println("master=fix");
+        System.out.println("hots");
     }
 }
